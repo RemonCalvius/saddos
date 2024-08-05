@@ -52,4 +52,3 @@ For questions or feedback, you can contact the developer at [@Fann](mailto:fanco
 ---
 <a href="https://saweria.co/FCProject">Support Me</a>
 Thank you for using SA:MP DDoS v1.0.0
-```
